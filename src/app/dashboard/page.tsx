@@ -106,7 +106,7 @@ export default function Dashboard() {
         </div>
 
         <h1 className="font-sans text-balance dark:bg-gray-900 rounded-xl shadow-2xl px-4 dark:hover:shadow-2xl py-5 font-black text-3xl sm:text-5xl md:text-6xl lg:text-6xl">
-          Manage your sites' cookies from one place{" "}
+          Manage your sites&apos; cookies from one place{" "}
           <span className="cursor-pointer hover:translate-y-3 rounded-md hover:shadow-2xl">
             📁
           </span>

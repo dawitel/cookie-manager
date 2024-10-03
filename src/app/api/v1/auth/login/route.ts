@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server";
-import * as bcrypt from "bcrypt";
 import { sign } from "jsonwebtoken";
 
 export async function POST(req:Request) {
