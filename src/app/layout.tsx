@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/hooks/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ebay Rank Checker",
-  description: "Scrape and rank products from ebay",
+  title: "Cookie Manager",
+  description: "Manage all of your cookies form one place",
 };
 
 export default function RootLayout({
